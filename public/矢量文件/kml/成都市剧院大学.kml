@@ -1,0 +1,4145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="_" id="_">
+	<SimpleField name="gml_id" type="string"></SimpleField>
+	<SimpleField name="code" type="int"></SimpleField>
+	<SimpleField name="fclass" type="string"></SimpleField>
+</Schema>
+<Folder><name>_</name>
+  <Placemark>
+	<name>½õÀï</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.500</SimpleData>
+		<SimpleData name="code">2721</SimpleData>
+		<SimpleData name="fclass">attraction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.04738,30.6484759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú½¨ÉèÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.501</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0479992,30.6380255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú½¨ÉèÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.502</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0473706,30.6465633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú½¨ÉèÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.503</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.038681,30.6467353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÕÐÉÌÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.504</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0343909,30.644598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>China Merchant's Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.505</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0392056,30.6440175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>He's</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.615</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0745102,30.6253719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.1949</SimpleData>
+		<SimpleData name="code">2002</SimpleData>
+		<SimpleData name="fclass">fire_station</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0655038,30.6356139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>µÂ¿ËÊ¿</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.6257</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0739616,30.636037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.6743</SimpleData>
+		<SimpleData name="code">2405</SimpleData>
+		<SimpleData name="fclass">hostel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.972822,30.5752102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ËÄ´¨ÒôÀÖÑ§Ôº</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.7240</SimpleData>
+		<SimpleData name="code">2081</SimpleData>
+		<SimpleData name="fclass">university</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0766317,30.6407642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ð¡ÉÌµê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.7753</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0459268,30.6187493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÒË¶¼±ö¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.7754</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0462058,30.6175121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>×ÔÈ»ÏÊ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.7755</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0483877,30.6174102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Somerset Riverside Chengdu</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.7993</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0645426,30.6485092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.10231</SimpleData>
+		<SimpleData name="code">2006</SimpleData>
+		<SimpleData name="fclass">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0265158,30.6435239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.10232</SimpleData>
+		<SimpleData name="code">2513</SimpleData>
+		<SimpleData name="fclass">florist</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0251318,30.6449269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÀÏ¼Ò×Ó</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.10595</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0433717,30.6466122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.17484</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.046106,30.6444847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.19084</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0649967,30.6243275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.19085</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.06512,30.6237761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ç§Ê¢°Ù»õ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.19241</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9970934,30.6518686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Î÷Å©æäÕ¾</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.19615</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0503082,30.6432285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÅÆÂ¥¹ã³¡</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.20980</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0277608,30.6370536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹úÅ©ÒµÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.20981</SimpleData>
+		<SimpleData name="code">2602</SimpleData>
+		<SimpleData name="fclass">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0239693,30.6295296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¼ÒÀÖ¸£</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.21041</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0276339,30.6369865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¿ÏµÂ»ù</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.21042</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0278867,30.6370806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÒË±öÈ¼Ãæ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.21043</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0239586,30.6289496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹úÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.21331</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0657356,30.5384985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Natooke ³É¶¼</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24722</SimpleData>
+		<SimpleData name="code">2542</SimpleData>
+		<SimpleData name="fclass">bicycle_shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0553088,30.637047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÐÇ°Í¿Ë</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24737</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0460577,30.6156397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÐÂ¶«·½Ç§ìû´ó¾Æµê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24738</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0464841,30.6154568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>µÂ¿ËÊ¿</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24749</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0747074,30.6265173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Âþ¿§·È</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24751</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0647578,30.6484557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>wowo</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24752</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0787951,30.6119569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9010</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24753</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0784732,30.6105257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7-Eleven</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24754</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0662384,30.6178715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¿§·ÈË¹ÌØ¼Ó</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24755</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0790834,30.6389852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÓÅÒÂ¿â</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24756</SimpleData>
+		<SimpleData name="code">2512</SimpleData>
+		<SimpleData name="fclass">clothes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0607231,30.6037262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÐÇ°Í¿Ë</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24757</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.064139,30.60451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3ºÅ¿§·È¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24769</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.075162,30.6268383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÂíÇð±ÈÇð¿§·È¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24776</SimpleData>
+		<SimpleData name="code">2305</SimpleData>
+		<SimpleData name="fclass">bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.058271,30.6345019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºÃÓÖ¶à</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24777</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0582998,30.6354273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24780</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0625425,30.6338847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24781</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0543567,30.62903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24782</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0544077,30.6319738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24786</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0645537,30.6217491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24787</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0613836,30.6274685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24791</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.088838,30.6318304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºÃÓÖ¶à</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24795</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0728144,30.6274267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>wowo</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24796</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0738659,30.627039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>°²ç÷¶ù¸¾²úÒ½Ôº</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24797</SimpleData>
+		<SimpleData name="code">2110</SimpleData>
+		<SimpleData name="fclass">hospital</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0779287,30.6104738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hyper-Mart</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24798</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0787937,30.6075478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7-Eleven</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24799</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0652611,30.6115989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¿ÏµÂ»ù</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24810</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0547942,30.6175228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÒæÃñ²ËÊÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24812</SimpleData>
+		<SimpleData name="code">2016</SimpleData>
+		<SimpleData name="fclass">market_place</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.078958,30.6079901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24813</SimpleData>
+		<SimpleData name="code">2602</SimpleData>
+		<SimpleData name="fclass">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0802926,30.6388411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>±ËµÂÎ÷²Í</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24952</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0743448,30.6298486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>±ËµÂÎ÷²Í</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24953</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0603956,30.6172416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24954</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.073879,30.6272903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24956</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0510567,30.6173077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÕÐÉÌÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24957</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0547662,30.6187573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24958</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0764092,30.6104912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24959</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0800289,30.6173113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24960</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0509106,30.6277753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>wowo</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24961</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0754957,30.6111301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>wowo</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24962</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0463009,30.6284181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>È«¼Ò</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24963</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0460648,30.6285196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú¹¤ÉÌÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24964</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0491065,30.6292859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24965</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0492138,30.6284504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24966</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0502437,30.6284689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>wowo</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.24982</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0772217,30.618806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú¹¤ÉÌÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.25806</SimpleData>
+		<SimpleData name="code">2602</SimpleData>
+		<SimpleData name="fclass">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0498188,30.6176743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹úÅ©ÒµÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.25807</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0504875,30.617223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.25895</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0449062,30.6484714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.27491</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0750748,30.6254998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.27492</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0769104,30.6248664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.27493</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0750544,30.6256979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.27494</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0760349,30.6264955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ËÙ8¾Æµê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.27495</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0737245,30.6266838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.27496</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0728417,30.6267507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.27497</SimpleData>
+		<SimpleData name="code">2005</SimpleData>
+		<SimpleData name="fclass">post_office</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0827513,30.6367428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ä¾Å£Á÷Âí</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.28534</SimpleData>
+		<SimpleData name="code">2742</SimpleData>
+		<SimpleData name="fclass">viewpoint</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0475352,30.6500406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼»·ÇòÖÐÐÄÌìÌÃÖÞ¼Ê´ó·¹µê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.29304</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0611478,30.5694475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>InterContinental Century City Chengdu</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.29305</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0696903,30.5620773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.29723</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0881011,30.6298273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.29724</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0899796,30.6307784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7-Eleven</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.31313</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0548122,30.5781751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Johnny 5 Doughnuts</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.32284</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0566666,30.6140032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>É¯ÄÈµÄµê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.32285</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.052139,30.6169717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kempinski</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.32812</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0639366,30.6209675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Î÷ÄÏÃñ×å²©Îï¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.34065</SimpleData>
+		<SimpleData name="code">2722</SimpleData>
+		<SimpleData name="fclass">museum</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0466857,30.6416536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>sugarbear</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.34918</SimpleData>
+		<SimpleData name="code">2518</SimpleData>
+		<SimpleData name="fclass">beverages</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.062864,30.6275418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼Ð£ÓÑÖ®¼Ò</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.36425</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0505524,30.6421058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.36527</SimpleData>
+		<SimpleData name="code">2007</SimpleData>
+		<SimpleData name="fclass">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0450435,30.6409484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.36528</SimpleData>
+		<SimpleData name="code">2602</SimpleData>
+		<SimpleData name="fclass">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0487981,30.6417053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.36529</SimpleData>
+		<SimpleData name="code">2602</SimpleData>
+		<SimpleData name="fclass">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.046626,30.6423977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÎÄº²±ö¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.36530</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0448879,30.6396284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Î÷ÄÏÃñ×å´óÑ§Ó×¶ùÔ°</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.36531</SimpleData>
+		<SimpleData name="code">2083</SimpleData>
+		<SimpleData name="fclass">kindergarten</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0475111,30.6436669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¼¾·çÇàÄêÂÃÉá</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.36532</SimpleData>
+		<SimpleData name="code">2405</SimpleData>
+		<SimpleData name="fclass">hostel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0462988,30.6388715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºÎÊ¦ÉÕ¿¾</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.40139</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0151338,30.6541163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Bookworm Cafe and LIbrary</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.40189</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0633206,30.6250465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºÎÊ¦ÉÕ¿¾</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.40320</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0359749,30.6435122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WoWo</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.40323</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0162241,30.654051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bonnych</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.40324</SimpleData>
+		<SimpleData name="code">2568</SimpleData>
+		<SimpleData name="fclass">laundry</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0156835,30.6556427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>007</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.40325</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0156799,30.6555942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Andersen</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.40326</SimpleData>
+		<SimpleData name="code">2502</SimpleData>
+		<SimpleData name="fclass">bakery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0156751,30.6555385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.40327</SimpleData>
+		<SimpleData name="code">2528</SimpleData>
+		<SimpleData name="fclass">greengrocer</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0150916,30.655492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.40330</SimpleData>
+		<SimpleData name="code">2528</SimpleData>
+		<SimpleData name="fclass">greengrocer</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0115422,30.6542893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÇåË®ºÉ»¨Ê³·» - Lotus Vegetarian Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.40892</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0813048,30.6277212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hilton Chengdu</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.41048</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0656563,30.5519827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shamrock Bar &amp; Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.46753</SimpleData>
+		<SimpleData name="code">2304</SimpleData>
+		<SimpleData name="fclass">pub</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0646282,30.6281916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mrs. Panda Hostel</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.48641</SimpleData>
+		<SimpleData name="code">2405</SimpleData>
+		<SimpleData name="fclass">hostel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0705179,30.6469199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>halal</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.48787</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0669356,30.6449893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÈýÍßÒ¤ÅÉ³öËù</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.48861</SimpleData>
+		<SimpleData name="code">2001</SimpleData>
+		<SimpleData name="fclass">police</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0736044,30.6043455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pizza Corner</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.48862</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0741062,30.6277342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beer Nest</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.48864</SimpleData>
+		<SimpleData name="code">2304</SimpleData>
+		<SimpleData name="fclass">pub</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0722521,30.6276901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wonton King</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.48872</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0709223,30.6453339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Hotel Zen Urban Resort</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.49023</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0744659,30.6439606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>jellyfish</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.50135</SimpleData>
+		<SimpleData name="code">2305</SimpleData>
+		<SimpleData name="fclass">bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0752575,30.6247664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cici GH</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.50136</SimpleData>
+		<SimpleData name="code">2404</SimpleData>
+		<SimpleData name="fclass">guesthouse</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0545619,30.6151002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cubilose</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.50691</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0519977,30.6318088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sichuan Emei-shan Zhuyeqing Tea</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.51081</SimpleData>
+		<SimpleData name="code">2518</SimpleData>
+		<SimpleData name="fclass">beverages</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0465,30.6385986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woke international youth hostel</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.51109</SimpleData>
+		<SimpleData name="code">2405</SimpleData>
+		<SimpleData name="fclass">hostel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0437078,30.6404462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7-Eleven</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.51124</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.064966,30.5487766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mikes pizza</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.51134</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.058028,30.6131511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.51135</SimpleData>
+		<SimpleData name="code">2305</SimpleData>
+		<SimpleData name="fclass">bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0646534,30.6025358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>woke international youth hostel</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.52112</SimpleData>
+		<SimpleData name="code">2405</SimpleData>
+		<SimpleData name="fclass">hostel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0434558,30.6404569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.52745</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0428872,30.6463301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.52747</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0643985,30.6343043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¶«±±´ó°üÓñÁÖ½Ö</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.52754</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0598317,30.6296683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.52758</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0557232,30.629255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºÍÔÃ¾ÆÂ¥</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.53147</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0625047,30.5932701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú½¨ÉèÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.53148</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0610946,30.5917048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¾Å·½¹ºÎïÖÐÐÄ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.53149</SimpleData>
+		<SimpleData name="code">2505</SimpleData>
+		<SimpleData name="fclass">department_store</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0628951,30.5925041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.53150</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.061134,30.5938014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹úÒÆ¶¯</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.53194</SimpleData>
+		<SimpleData name="code">2525</SimpleData>
+		<SimpleData name="fclass">mobile_phone_shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0582853,30.5947375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼¸ßÐÂÇø·¨Ôº</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.53195</SimpleData>
+		<SimpleData name="code">2009</SimpleData>
+		<SimpleData name="fclass">courthouse</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0626241,30.5974613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Êñ¸®ÑçÓï</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.53196</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0643016,30.5916543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.54945</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0244398,30.6100652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.55147</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0537187,30.6148902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.55153</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0538314,30.6148333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Train Ticket Office</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.55804</SimpleData>
+		<SimpleData name="code">2567</SimpleData>
+		<SimpleData name="fclass">travel_agent</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0643515,30.6390655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.56086</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0436953,30.6465133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>°Í»ùË¹Ì¹³É¶¼×ÜÁìÊÂ¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.56088</SimpleData>
+		<SimpleData name="code">2011</SimpleData>
+		<SimpleData name="fclass">embassy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.065698,30.5533768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.56245</SimpleData>
+		<SimpleData name="code">2082</SimpleData>
+		<SimpleData name="fclass">school</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0566947,30.6247571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.56246</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.05178,30.625504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.56247</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0704247,30.631758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.56347</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0555457,30.6251069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52 camp »§ÍâÕÛ¿ÛÂô³¡</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.56743</SimpleData>
+		<SimpleData name="code">2524</SimpleData>
+		<SimpleData name="fclass">outdoor_shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0458497,30.6465103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Èý·ò»§ÍâÔË¶¯ÓÃÆ·(Îäºîìôµê)</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.56744</SimpleData>
+		<SimpleData name="code">2524</SimpleData>
+		<SimpleData name="fclass">outdoor_shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0440307,30.6465784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.57326</SimpleData>
+		<SimpleData name="code">2521</SimpleData>
+		<SimpleData name="fclass">gift_shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0428654,30.6435882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>µÂ¿ËÊ¿</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.59539</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0538023,30.5528158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹úÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.59972</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0551764,30.636537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú½¨ÉèÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.59973</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0477954,30.6331209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÐÇ°Í¿Ë</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.60136</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0535343,30.5530558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼ÊÐ¸ßÐÂÇø¼ì²ìÔº</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.61419</SimpleData>
+		<SimpleData name="code">2009</SimpleData>
+		<SimpleData name="fclass">courthouse</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0624743,30.5982358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼ÊÐ¼±¾ÈÖ¸»ÓÖÐÐÄ(120)</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.61420</SimpleData>
+		<SimpleData name="code">2110</SimpleData>
+		<SimpleData name="fclass">hospital</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0513544,30.5915278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.61696</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0391873,30.6442847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ïã¸ñÈðÀ­¿§·È</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.61706</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.044312,30.646634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.61707</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0466674,30.6466549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú¹¤ÉÌÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.61708</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0471542,30.6467687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.61710</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0543894,30.6497056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.61762</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0444665,30.6455732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ººÔÏ¾Æµê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.62349</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0591896,30.5941796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú½¨ÉèÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.62366</SimpleData>
+		<SimpleData name="code">2602</SimpleData>
+		<SimpleData name="fclass">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.027627,30.6109803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>À­ì³¶û¿ÚÇ»</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.62413</SimpleData>
+		<SimpleData name="code">2110</SimpleData>
+		<SimpleData name="fclass">hospital</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0524212,30.5900136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼Å©ÉÌÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.62414</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0524233,30.5900805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¹þ¶û±õÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.62415</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0523558,30.5931985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÍþË¹ÌØ»¨Ô°</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.62416</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0528589,30.5884167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú½¨ÉèÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.62417</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0523149,30.5970206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.62532</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0383161,30.6398167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.62851</SimpleData>
+		<SimpleData name="code">2082</SimpleData>
+		<SimpleData name="fclass">school</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0737298,30.5987293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÌøÉ¡ËþÅÉ³öËù</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.63024</SimpleData>
+		<SimpleData name="code">2001</SimpleData>
+		<SimpleData name="fclass">police</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0666701,30.6298912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼ÊÐ¹«°²Ïû·ÀÖ§¶Ó</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.63026</SimpleData>
+		<SimpleData name="code">2002</SimpleData>
+		<SimpleData name="fclass">fire_station</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0696699,30.5907404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÈýºÍÆû³µ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.64425</SimpleData>
+		<SimpleData name="code">2541</SimpleData>
+		<SimpleData name="fclass">car_dealership</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0379675,30.5994341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>»ªÆÕ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.64426</SimpleData>
+		<SimpleData name="code">2541</SimpleData>
+		<SimpleData name="fclass">car_dealership</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0373665,30.5991278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³¤°²Âí×Ô´ïÍ¨°²µê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.64427</SimpleData>
+		<SimpleData name="code">2541</SimpleData>
+		<SimpleData name="fclass">car_dealership</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0365677,30.5983858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ë«Ô´ÈºÑç¹ã³¡</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.64743</SimpleData>
+		<SimpleData name="code">2306</SimpleData>
+		<SimpleData name="fclass">food_court</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0274241,30.5543318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AÊÀ½çµçÄÔ³Ç</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.65013</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0649218,30.6364092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÐÇ°Í¿Ë</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.65083</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0629886,30.5917411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>»ªÎ÷°Ó</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.65154</SimpleData>
+		<SimpleData name="code">2721</SimpleData>
+		<SimpleData name="fclass">attraction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.066617,30.6417937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ð¡¾Æ¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.65155</SimpleData>
+		<SimpleData name="code">2304</SimpleData>
+		<SimpleData name="fclass">pub</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0537947,30.6320139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.66444</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0768217,30.6460816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.66688</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.045723,30.6490401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.66689</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0445273,30.6496318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.66693</SimpleData>
+		<SimpleData name="code">2101</SimpleData>
+		<SimpleData name="fclass">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0519788,30.6492798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.67255</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0814705,30.6378313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.70872</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0596226,30.6055652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xinzu Pinguan</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.72241</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0640209,30.625633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú¹¤ÉÌÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.72487</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0479063,30.633379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼Ê¦·¶Òø¶¼Ð¡Ñ§×ÏÞ±Ð£Çø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.72495</SimpleData>
+		<SimpleData name="code">2082</SimpleData>
+		<SimpleData name="fclass">school</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.042716,30.6133232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ã«Ôó¶«Ïñ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.74122</SimpleData>
+		<SimpleData name="code">2724</SimpleData>
+		<SimpleData name="fclass">memorial</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0882823,30.6341408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.75617</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0711974,30.6452356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Survivor Indoor Rock Climbing</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.75701</SimpleData>
+		<SimpleData name="code">2251</SimpleData>
+		<SimpleData name="fclass">sports_centre</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0523773,30.6181949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.78048</SimpleData>
+		<SimpleData name="code">2252</SimpleData>
+		<SimpleData name="fclass">pitch</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0577829,30.6310763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÐÇ°Í¿Ë</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.78141</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0473106,30.6473216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Èü°ÙÎ¶</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.78433</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.064466,30.648559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7-Eleven</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.78438</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0648754,30.6484146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.80250</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0439863,30.6414405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.81082</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.064582,30.5492589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼ÎÄÎï¹ÅÍæÊÐ³¡</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.81250</SimpleData>
+		<SimpleData name="code">2016</SimpleData>
+		<SimpleData name="fclass">market_place</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0398759,30.6396263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÌÔÊéÕ«</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.81251</SimpleData>
+		<SimpleData name="code">2515</SimpleData>
+		<SimpleData name="fclass">bookshop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0399161,30.6394602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¿µ¶¨¾Æµê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.81252</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0459673,30.6455185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>²ËÄñæäÕ¾</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.82154</SimpleData>
+		<SimpleData name="code">2005</SimpleData>
+		<SimpleData name="fclass">post_office</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0618515,30.535189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chengdu Dreams Travel International Youth Hostel</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.82998</SimpleData>
+		<SimpleData name="code">2405</SimpleData>
+		<SimpleData name="fclass">hostel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0473402,30.6440898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 Days Inn</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.84292</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0585426,30.6320267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹úÅ·ÖÞÖÐÐÄ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.85088</SimpleData>
+		<SimpleData name="code">2721</SimpleData>
+		<SimpleData name="fclass">attraction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0681882,30.5392649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.85257</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.04746,30.6500388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.86416</SimpleData>
+		<SimpleData name="code">2305</SimpleData>
+		<SimpleData name="fclass">bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.060201,30.6207979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.86417</SimpleData>
+		<SimpleData name="code">2305</SimpleData>
+		<SimpleData name="fclass">bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0474491,30.6167315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.86420</SimpleData>
+		<SimpleData name="code">2305</SimpleData>
+		<SimpleData name="fclass">bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0581213,30.615563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.86545</SimpleData>
+		<SimpleData name="code">2012</SimpleData>
+		<SimpleData name="fclass">community_centre</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0694576,30.6214981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WOWO±ãÀûµê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.86632</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0737299,30.6385611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ËÄ´¨¹ã²¥µçÊÓ´óÑ§</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.86633</SimpleData>
+		<SimpleData name="code">2084</SimpleData>
+		<SimpleData name="fclass">college</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0737406,30.6383765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.86634</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0737701,30.6373265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ï²²è</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.86713</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.065416,30.6347254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Çá°²</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.86758</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0462172,30.56079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ËÄ´¨´óÑ§¸ïÃüÁÒÊ¿¼ÍÄî±®</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.86877</SimpleData>
+		<SimpleData name="code">2724</SimpleData>
+		<SimpleData name="fclass">memorial</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0873826,30.6323087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÎäºîÇøÕþ¸®</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.87364</SimpleData>
+		<SimpleData name="code">2008</SimpleData>
+		<SimpleData name="fclass">town_hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0409139,30.6444824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¾ÅÁú¶¦ÇàÄê¿ÍÕ»</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.88864</SimpleData>
+		<SimpleData name="code">2405</SimpleData>
+		<SimpleData name="fclass">hostel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0444267,30.6459212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.91434</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0452566,30.6448872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ººÍ¥</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.91504</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0391222,30.6454489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>veganheart vegan</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.91506</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0507488,30.6387779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¾²Ô¶ÌÃ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.91528</SimpleData>
+		<SimpleData name="code">2721</SimpleData>
+		<SimpleData name="fclass">attraction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0446842,30.6484931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¿×Ã÷Ô·</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.91529</SimpleData>
+		<SimpleData name="code">2721</SimpleData>
+		<SimpleData name="fclass">attraction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0465035,30.6488961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.91914</SimpleData>
+		<SimpleData name="code">2421</SimpleData>
+		<SimpleData name="fclass">shelter</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0491059,30.6328657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.91915</SimpleData>
+		<SimpleData name="code">2421</SimpleData>
+		<SimpleData name="fclass">shelter</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0495561,30.6326641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.93837</SimpleData>
+		<SimpleData name="code">2305</SimpleData>
+		<SimpleData name="fclass">bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0829394,30.6436843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.94976</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0414812,30.64559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TOMLAND BEER HOUSE ÌÀÄ·À¼µÂÆ¡¾ÆÎÝ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.95045</SimpleData>
+		<SimpleData name="code">2305</SimpleData>
+		<SimpleData name="fclass">bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0522742,30.5533536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>È«¼¾¾Æµê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.97409</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0642927,30.5512048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>áÏ¶ë¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.98086</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0575628,30.6359128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºº±¤Íõ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.98112</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0716612,30.5557803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºº±¤Íõ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.98855</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0579227,30.5497911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G1¿§·ÈÌü</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.98953</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0643015,30.550003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Omnomnom´óÄ¿</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.98954</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0539611,30.6074013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Áú¸ÚÆû³µÃÀÈÝ×°ÊÎ¿ìÐÞ£¨Ë«éªµê£©</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99033</SimpleData>
+		<SimpleData name="code">2564</SimpleData>
+		<SimpleData name="fclass">car_wash</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0286461,30.6463524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÍòÏó²èÂ¥</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99034</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0290621,30.6463567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>È«¼Ò</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99035</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0315182,30.6463505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99085</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0730967,30.6267724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>H&amp;M</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99107</SimpleData>
+		<SimpleData name="code">2512</SimpleData>
+		<SimpleData name="fclass">clothes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0600724,30.6049265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UGG</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99108</SimpleData>
+		<SimpleData name="code">2517</SimpleData>
+		<SimpleData name="fclass">shoe_shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0606464,30.6045895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pandora</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99109</SimpleData>
+		<SimpleData name="code">2520</SimpleData>
+		<SimpleData name="fclass">jeweller</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0606706,30.6044325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÐÇ°Í¿Ë</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99110</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0584497,30.6046792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÐÇ°Í¿Ë</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99111</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0622821,30.5961088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Æ½°²ÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99204</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0637594,30.5893955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Æ½°²ÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99205</SimpleData>
+		<SimpleData name="code">2602</SimpleData>
+		<SimpleData name="fclass">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0637581,30.5893563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7-Eleven</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99341</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0762891,30.5933395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99403</SimpleData>
+		<SimpleData name="code">2001</SimpleData>
+		<SimpleData name="fclass">police</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0699024,30.5725318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99413</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0785182,30.5558949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99414</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0720414,30.5459521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÐÇ°Í¿Ë</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99438</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0714744,30.543983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99485</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0539406,30.6074068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>È«¼Ò</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99518</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0596026,30.5509188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Delia Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99519</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0641263,30.5503707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maan Coffee</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99520</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0636358,30.5496768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¿ÏµÂ»ù</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99544</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0659038,30.5408948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jacaranda Coffee</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99607</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0606608,30.5562746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÈóÀ³½ð×ù</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99619</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0572756,30.5560697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holiday Inn</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99622</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0558956,30.5605946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wo Wo</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99657</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0659902,30.6214354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7-Eleven</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99658</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0654316,30.6215139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yumun Emerald Conceptual Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99659</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0653377,30.6215162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7-Eleven</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99745</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0685256,30.6179739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÐÇ°Í¿Ë</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99746</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0687858,30.6179832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VOX Coffee</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99747</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0691961,30.6184506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7-Eleven</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99748</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0691358,30.6184633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹úÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99749</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0685833,30.6185221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WOWO</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99814</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0640807,30.6160906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹úÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99815</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0640807,30.615772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eighteen Perfect Teeth</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.99816</SimpleData>
+		<SimpleData name="code">2121</SimpleData>
+		<SimpleData name="fclass">dentist</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0641015,30.6155637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kempinski</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.100166</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0636593,30.621187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.100167</SimpleData>
+		<SimpleData name="code">2101</SimpleData>
+		<SimpleData name="fclass">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0635916,30.6434639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¿ÏµÂ»ù</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.100168</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0646149,30.636426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>µÂÒâÖ¾Áª°î¹²ºÍ¹ú×¤³É¶¼×ÜÁìÊÂ¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.100169</SimpleData>
+		<SimpleData name="code">2011</SimpleData>
+		<SimpleData name="fclass">embassy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0647705,30.6269805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.103117</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0409941,30.546937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÎâÃú»³¾É»ð¹ø£¨Îäºîìôµê£©</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.104987</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0448995,30.6463762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.105493</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.070501,30.6272324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.105494</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0723631,30.6256196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.105582</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0734515,30.6268678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¼¦Ã«µê(Ë«éªµê)</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.107008</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0255602,30.6472694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.107009</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0295473,30.6391329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¶«ÑÇÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.108292</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0584338,30.584158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÉÏº£ÆÖ¶«·¢Õ¹ÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.109314</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.046839,30.6256701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÉÏº£ÆÖ¶«·¢Õ¹ÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.109318</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0628205,30.5490506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÉÏº£ÆÖ¶«·¢Õ¹ÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.109322</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0748606,30.6232872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÉÏº£ÆÖ¶«·¢Õ¹ÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.109323</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.031831,30.653174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¹ÖÎ¶Ãæ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.109764</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0732132,30.6402455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÐìÙÒÔºÊ¿Ïñ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.110892</SimpleData>
+		<SimpleData name="code">2725</SimpleData>
+		<SimpleData name="fclass">artwork</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0752733,30.6297899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¶¦</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.110893</SimpleData>
+		<SimpleData name="code">2725</SimpleData>
+		<SimpleData name="fclass">artwork</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0765941,30.6339239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.111039</SimpleData>
+		<SimpleData name="code">2121</SimpleData>
+		<SimpleData name="fclass">dentist</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0256802,30.6471745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.111174</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0710071,30.6454558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ð¡¼Ò</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.111197</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0712432,30.6459868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.112170</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9993478,30.6446989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.112276</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0508386,30.6223662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.112277</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.071262,30.6276844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.112278</SimpleData>
+		<SimpleData name="code">2203</SimpleData>
+		<SimpleData name="fclass">cinema</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0515568,30.6235244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.112279</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0595011,30.6237779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.112280</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0674638,30.6276765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>snacks place</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.112691</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0549287,30.6492899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¿ì¿ì²Í£¨¶þÂ¥£©</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.112775</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0826477,30.632484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÌÒÔ°Ãæ¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.112776</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0826333,30.6327133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>good hot pot restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.112783</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0459865,30.6465139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÅÉ³öËù</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.112837</SimpleData>
+		<SimpleData name="code">2001</SimpleData>
+		<SimpleData name="fclass">police</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0783018,30.6358333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ñ§Éú»î¶¯ÖÐÐÄ£¨¶þÂ¥£©</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.112838</SimpleData>
+		<SimpleData name="code">2012</SimpleData>
+		<SimpleData name="fclass">community_centre</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0765541,30.6367798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Î÷Îå½ÌÑÝ²¥Ìü</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.112839</SimpleData>
+		<SimpleData name="code">2201</SimpleData>
+		<SimpleData name="fclass">theatre</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0773533,30.6364588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>½Ý°²ÌØ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.113139</SimpleData>
+		<SimpleData name="code">2542</SimpleData>
+		<SimpleData name="fclass">bicycle_shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0283921,30.6386524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú¹¤ÉÌÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.113353</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0539797,30.6440246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹úÃñÉúÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.113414</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0470695,30.632977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raidy Boer</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.113418</SimpleData>
+		<SimpleData name="code">2512</SimpleData>
+		<SimpleData name="fclass">clothes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0454599,30.6309808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú½¨ÉèÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.113425</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0530986,30.6426306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.114055</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9991211,30.6449145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.114080</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0551507,30.6172084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.114099</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0821289,30.6167787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.114140</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.070053,30.6174826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.114618</SimpleData>
+		<SimpleData name="code">2082</SimpleData>
+		<SimpleData name="fclass">school</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0601109,30.6167889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.115105</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0569016,30.6139288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.115833</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0338929,30.6397592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.117270</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0564008,30.6124963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.117398</SimpleData>
+		<SimpleData name="code">2524</SimpleData>
+		<SimpleData name="fclass">outdoor_shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0629047,30.6356675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.117399</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0474828,30.6492581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>IMHE</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.119005</SimpleData>
+		<SimpleData name="code">2082</SimpleData>
+		<SimpleData name="fclass">school</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0681869,30.6321206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.119870</SimpleData>
+		<SimpleData name="code">2721</SimpleData>
+		<SimpleData name="fclass">attraction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0528137,30.6318956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.119871</SimpleData>
+		<SimpleData name="code">2721</SimpleData>
+		<SimpleData name="fclass">attraction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0575613,30.6289178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.121212</SimpleData>
+		<SimpleData name="code">2082</SimpleData>
+		<SimpleData name="fclass">school</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0716538,30.617333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.122715</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.076487,30.6454167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ï²²è</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128033</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0630931,30.5918733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÓÅÒÂ¿â</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128034</SimpleData>
+		<SimpleData name="code">2512</SimpleData>
+		<SimpleData name="fclass">clothes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0425328,30.5529702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ï²²è</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128035</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0425028,30.5527949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>±ØÊ¤¿Í</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128036</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0432477,30.5527605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¿ÏµÂ»ù</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128037</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0431491,30.5528164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÓÅÒÂ¿â</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128038</SimpleData>
+		<SimpleData name="code">2512</SimpleData>
+		<SimpleData name="fclass">clothes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0621456,30.5717762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÐÇ°Í¿Ë</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128039</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0623986,30.5715584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ï²²è</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128040</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0624387,30.5720459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CGV</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128041</SimpleData>
+		<SimpleData name="code">2203</SimpleData>
+		<SimpleData name="fclass">cinema</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0424261,30.5519004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>º£µ×ÀÌ»ð¹ø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128042</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0431704,30.5515068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>È«Ê±</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128043</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0428054,30.5513318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÕÐÉÌÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128044</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0432223,30.5513192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºÃÀûÀ´</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128045</SimpleData>
+		<SimpleData name="code">2502</SimpleData>
+		<SimpleData name="fclass">bakery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0432618,30.5515356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÐÇ°Í¿Ë</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128046</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0433072,30.5518089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú¹¤ÉÌÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.128047</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0432406,30.5525336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼Ê××ùÍòºÀ¾Æµê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.129988</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.067072,30.5891987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sichuan Qianzheng Technology Co., Ltd.</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.130415</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0222366,30.590791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼Ê®·½ÇàÄê¿Í£</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.146260</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0731528,30.6278174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.149080</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0742869,30.6162702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>»·ÇòÖÐÐÄ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.149082</SimpleData>
+		<SimpleData name="code">2721</SimpleData>
+		<SimpleData name="fclass">attraction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0630834,30.5714638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼ìû«h¾Æµê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.150886</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0640669,30.5514431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÎÖ¶ûÂê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.152628</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0395026,30.6401373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼Ö±Éý»ú²©Îï¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.154276</SimpleData>
+		<SimpleData name="code">2722</SimpleData>
+		<SimpleData name="fclass">museum</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0115289,30.6033745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÎäºîÇø½¬Ï´½ÖÉçÇøÎÀÉú·þÎñÖÐÐÄ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.156891</SimpleData>
+		<SimpleData name="code">2110</SimpleData>
+		<SimpleData name="fclass">hospital</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0384869,30.6497821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ä¦¶û³µ»ã¹ã³¡</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.167206</SimpleData>
+		<SimpleData name="code">2504</SimpleData>
+		<SimpleData name="fclass">mall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0021062,30.6175504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.170658</SimpleData>
+		<SimpleData name="code">2950</SimpleData>
+		<SimpleData name="fclass">tower</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0649484,30.6095919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>À×ÃÅÀ­Ãæ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.171591</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0856444,30.6406064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.171598</SimpleData>
+		<SimpleData name="code">2902</SimpleData>
+		<SimpleData name="fclass">bench</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0642409,30.642528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WOWO</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.171599</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0641457,30.6446233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.171600</SimpleData>
+		<SimpleData name="code">2902</SimpleData>
+		<SimpleData name="fclass">bench</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0640578,30.6447895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹úÓÊÕþ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.171601</SimpleData>
+		<SimpleData name="code">2005</SimpleData>
+		<SimpleData name="fclass">post_office</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0641208,30.6447947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Á¹É½±ö¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.171602</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0641839,30.6456981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.171603</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0652943,30.6453219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¶Á±¾ÎÝ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.171604</SimpleData>
+		<SimpleData name="code">2515</SimpleData>
+		<SimpleData name="fclass">bookshop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0663658,30.64524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.172931</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9775214,30.6241742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>·×³È¶à</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.172932</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9772739,30.6238378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÇÌ½ÅÅ£Èâ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.173563</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0672236,30.6235394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24Ð¡Ê±±ãÀûµê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.173564</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0673035,30.6236254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÃÛÑ©±ù³Ç</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.174452</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0791226,30.628718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÈØÎ¶ÏÊ°×Áì²ÍÌü</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.175321</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9776465,30.6246328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹úÓÊÕþ´¢ÐîÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.175322</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9780185,30.6241575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¾ýÁÙÒÝÑÅ¾Æµê</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.176151</SimpleData>
+		<SimpleData name="code">2401</SimpleData>
+		<SimpleData name="fclass">hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0744447,30.6043818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÀÏÁÚ¾Ó</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.176152</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0712583,30.6044303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÈËÃñ¹«Éç</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.176153</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0705609,30.6045111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.176456</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0617964,30.5664083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.176457</SimpleData>
+		<SimpleData name="code">2205</SimpleData>
+		<SimpleData name="fclass">playground</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0617266,30.5657524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.176998</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9765427,30.6626902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Âõ¿Ë¶û¡¤½Ü¿ËÑ·µñÏñ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.177537</SimpleData>
+		<SimpleData name="code">2725</SimpleData>
+		<SimpleData name="fclass">artwork</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0677559,30.604904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¾ýÁÙÐ¡³ø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.177721</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0737906,30.6045545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÈðµÂÓðÃ«Çò³¡</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.178286</SimpleData>
+		<SimpleData name="code">2252</SimpleData>
+		<SimpleData name="fclass">pitch</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0733379,30.6182775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>»ÆìË¼¦¡¤âÆâ½Íõ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.178788</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.07901,30.6078768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.179759</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0721547,30.6017004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÒêÆ·ÉúÏÊ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.179760</SimpleData>
+		<SimpleData name="code">2528</SimpleData>
+		<SimpleData name="fclass">greengrocer</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0718382,30.6019474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.179761</SimpleData>
+		<SimpleData name="code">2205</SimpleData>
+		<SimpleData name="fclass">playground</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0708685,30.6058593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.179762</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0706727,30.6059678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¸ßÐÂÇøÍ¼Êé¹Ý¹ðÏª·Ö¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.179763</SimpleData>
+		<SimpleData name="code">2007</SimpleData>
+		<SimpleData name="fclass">library</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.070139,30.6060544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ð¡Âô²¿</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.180044</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0646686,30.5640555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ð¡Âô²¿</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.180045</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0616038,30.5653528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>È«¼Ç´«Í³ÔÁ²Ë</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.180504</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0463064,30.618881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Óö¼û²©Îï¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.181500</SimpleData>
+		<SimpleData name="code">2722</SimpleData>
+		<SimpleData name="fclass">museum</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0679999,30.5442002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7-Eleven</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.181501</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0640196,30.547461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ìì½Ö³¬ÊÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.181520</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0737745,30.6042971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºÍÆ½²ËÊÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.181621</SimpleData>
+		<SimpleData name="code">2016</SimpleData>
+		<SimpleData name="fclass">market_place</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0742749,30.6042371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.181622</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0711678,30.6071981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¼ÒÎ¶ÉÕ²Ë</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.181623</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0705536,30.6077348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>À°Ö­Èâ¼ÐâÉ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.181662</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0708665,30.6276192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ê³Æä¼ÒÅ£S¿§à¬</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.181663</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0676988,30.6276446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÈËÃñÊ³ÌÃ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.181664</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0631417,30.6296294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.181673</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0638619,30.6295048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Îè¶«·ç</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.182232</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0720892,30.5955375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¾©³ÇÌØºÅ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.182233</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0708232,30.5954613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.182301</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0714337,30.6047945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Îè¶«·ç</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.182302</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0705318,30.6045094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÁùºÏ¾Ó</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.182440</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9927694,30.6016416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼ÎÖ¶Ù¹«Ñ§</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.182441</SimpleData>
+		<SimpleData name="code">2082</SimpleData>
+		<SimpleData name="fclass">school</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0325586,30.6005827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÈðÐÒ¿§·È</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.183080</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9773335,30.6241064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼ÊÐ¹«°²¾ÖÎäºîÇø·Ö¾Ö»úÍ¶ÇÅÅÉ³öËù</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.183187</SimpleData>
+		<SimpleData name="code">2001</SimpleData>
+		<SimpleData name="fclass">police</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9676538,30.649613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.183995</SimpleData>
+		<SimpleData name="code">2950</SimpleData>
+		<SimpleData name="fclass">tower</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.963,30.5866588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.183997</SimpleData>
+		<SimpleData name="code">2950</SimpleData>
+		<SimpleData name="fclass">tower</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9605485,30.5869305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÎµÀ´ÖÐÐÄ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.184531</SimpleData>
+		<SimpleData name="code">2541</SimpleData>
+		<SimpleData name="fclass">car_dealership</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0662275,30.5878824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ã·¸É²Ë¿ÛÈâ±ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.184954</SimpleData>
+		<SimpleData name="code">2503</SimpleData>
+		<SimpleData name="fclass">kiosk</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.079671,30.6286404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>½ÇÂä£¨ÒâÊ½³ø·»£©</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.184955</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0790273,30.6285896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.185026</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9846686,30.5976569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>²ËÄñæäÕ¾</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.185027</SimpleData>
+		<SimpleData name="code">2005</SimpleData>
+		<SimpleData name="fclass">post_office</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.984804,30.5975253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.186799</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0471296,30.5727886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÓÅ¼Ñ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.187181</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0276849,30.6377378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>½ð»¨ÇÅÅÉ³öËù</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.187404</SimpleData>
+		<SimpleData name="code">2001</SimpleData>
+		<SimpleData name="fclass">police</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9762129,30.5938626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.187405</SimpleData>
+		<SimpleData name="code">2205</SimpleData>
+		<SimpleData name="fclass">playground</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9846484,30.5946037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.187620</SimpleData>
+		<SimpleData name="code">2725</SimpleData>
+		<SimpleData name="fclass">artwork</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.04426,30.6487093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.187621</SimpleData>
+		<SimpleData name="code">2725</SimpleData>
+		<SimpleData name="fclass">artwork</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0443303,30.6486796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÎÄ±£±®</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.187622</SimpleData>
+		<SimpleData name="code">2724</SimpleData>
+		<SimpleData name="fclass">memorial</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.043584,30.6472951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÎäÍâÓ×¶ùÔ°</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.187631</SimpleData>
+		<SimpleData name="code">2083</SimpleData>
+		<SimpleData name="fclass">kindergarten</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9790469,30.6056526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.187720</SimpleData>
+		<SimpleData name="code">2593</SimpleData>
+		<SimpleData name="fclass">vending_any</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0645766,30.5671719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.187721</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0682847,30.565143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.187722</SimpleData>
+		<SimpleData name="code">2590</SimpleData>
+		<SimpleData name="fclass">vending_machine</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0692249,30.5651372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÃÖÔ¶¿§·È</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.187723</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0692007,30.5651915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.187724</SimpleData>
+		<SimpleData name="code">2205</SimpleData>
+		<SimpleData name="fclass">playground</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0692088,30.5649825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.188074</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.988958,30.5961093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.188075</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.984146,30.5941273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼¾Û½¹³¬ÉùÒ½Ôº</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.188198</SimpleData>
+		<SimpleData name="code">2110</SimpleData>
+		<SimpleData name="fclass">hospital</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9804463,30.6271679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÎäºîÇøµÚ¶þÈËÃñÒ½Ôº</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.188199</SimpleData>
+		<SimpleData name="code">2110</SimpleData>
+		<SimpleData name="fclass">hospital</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9811415,30.6354316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>½ð·ï½ÖÅ©Ã³ÊÐ³¡</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.189443</SimpleData>
+		<SimpleData name="code">2016</SimpleData>
+		<SimpleData name="fclass">market_place</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9700828,30.6099846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.189605</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9680294,30.5944701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÈýÂ¥²ÞËù</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.189627</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0674216,30.6450365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¼ÒÀÖ¸£</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.190134</SimpleData>
+		<SimpleData name="code">2501</SimpleData>
+		<SimpleData name="fclass">supermarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0264969,30.6363913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.190720</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9927969,30.6077962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.190997</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.987182,30.6029847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.191104</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9680855,30.5952614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.191399</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9641016,30.5842876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.191400</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9749766,30.5809371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¼û¸£</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.193144</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0062243,30.6265995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7-Eleven</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.193145</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.00605,30.6264472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¶¹¸ç¸ç±ùÃÃÃÃ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.193146</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9843379,30.5939268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÓÎ¿ÍÖÐÐÄ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.193147</SimpleData>
+		<SimpleData name="code">2701</SimpleData>
+		<SimpleData name="fclass">tourist_info</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9825274,30.5967932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.193317</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9804262,30.5956475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Âê¸è¡¤µÏÏÉ×¯Ô°</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.193318</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9796618,30.596294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.193319</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9792272,30.5950986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.196776</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0468186,30.6328143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÒãÔÃ´¨²Ë¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.197983</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9878566,30.5955703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>°Û¼Ñ»Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.197984</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9881516,30.5957885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.198024</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9889291,30.6033218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.198025</SimpleData>
+		<SimpleData name="code">2901</SimpleData>
+		<SimpleData name="fclass">toilet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9899698,30.6053072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.198704</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9893586,30.5992287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Îè¶«·ç</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.198705</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9896081,30.5993095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ã»ÕÐÅÆµÄ·¹¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.198706</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9885968,30.601664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.198826</SimpleData>
+		<SimpleData name="code">2902</SimpleData>
+		<SimpleData name="fclass">bench</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0252257,30.621931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¿¡Ã¯ÕïËù</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.199241</SimpleData>
+		<SimpleData name="code">2111</SimpleData>
+		<SimpleData name="fclass">clinic</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9681321,30.5945299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³¿¹âÎÄ¾ß</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.199476</SimpleData>
+		<SimpleData name="code">2523</SimpleData>
+		<SimpleData name="fclass">stationery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9829243,30.6054425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HYGGE Life¡¤À´¸£</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.199794</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0529803,30.6249431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.199795</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0538667,30.6262113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ë³·áËÙÔË</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.200897</SimpleData>
+		<SimpleData name="code">2005</SimpleData>
+		<SimpleData name="fclass">post_office</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9938164,30.6000451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>¼ªÏèÓðÃ«Çò¹Ý</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.201022</SimpleData>
+		<SimpleData name="code">2252</SimpleData>
+		<SimpleData name="fclass">pitch</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9721659,30.6292901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.201430</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9950929,30.5998211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nissan</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.201649</SimpleData>
+		<SimpleData name="code">2541</SimpleData>
+		<SimpleData name="fclass">car_dealership</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.9805538,30.6252897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ê³Î¶Ð¡Ãæ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.204832</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0453994,30.5450038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.204833</SimpleData>
+		<SimpleData name="code">2902</SimpleData>
+		<SimpleData name="fclass">bench</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0485564,30.5469696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>·½ÖÐÉ½ºúÀ±ÌÀ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.204834</SimpleData>
+		<SimpleData name="code">2301</SimpleData>
+		<SimpleData name="fclass">restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0443259,30.5454577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Âóµ±ÀÍ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.205322</SimpleData>
+		<SimpleData name="code">2302</SimpleData>
+		<SimpleData name="fclass">fast_food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0111064,30.6515658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú½¨ÉèÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.207550</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.029791,30.6272474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>³É¶¼Å©ÉÌÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.207551</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0297749,30.6268804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.207552</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0331464,30.6255741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.207553</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0362417,30.6091057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Îè¶«·ç</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.207554</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0372804,30.6086186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ºìÆìÁ¬Ëø</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.207555</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0369149,30.6096736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÖÐ¹ú¹¤ÉÌÒøÐÐ</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.207556</SimpleData>
+		<SimpleData name="code">2601</SimpleData>
+		<SimpleData name="fclass">bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0444321,30.5490051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Îè¶«·ç</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.207557</SimpleData>
+		<SimpleData name="code">2511</SimpleData>
+		<SimpleData name="fclass">convenience</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0446493,30.5485062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÃÖÔ¶¿§·È</name>
+	<ExtendedData><SchemaData schemaUrl="#_">
+		<SimpleData name="gml_id">v2_layer_poi_pt.209749</SimpleData>
+		<SimpleData name="code">2303</SimpleData>
+		<SimpleData name="fclass">cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>104.0785988,30.5937679</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
